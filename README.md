@@ -2,4 +2,3 @@
 �
 �
 Colorness
-Info: Path of style document is './style.css' 
